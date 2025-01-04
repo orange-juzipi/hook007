@@ -34,8 +34,8 @@ _testmain.go
 /output
 *.local.yml
 
- release
+ release/**
 .idea
 .vscode
 config.yaml
-tools
+tools/**
